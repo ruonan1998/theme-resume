@@ -1,36 +1,58 @@
-# [Hugo Résumé Theme](https://github.com/HugoBlox/theme-resume)
+# [Ruonan Li](https://github.com/HugoBlox/theme-resume)
 
-[![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
+## 👋 About Me
 
-The Hugo **Résumé Template** empowers you to easily create your job-winning online résumé, showcase your expertise, and share your social profiles to grow your audience.
+📍 Sydney, Australia  
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+📞 047-305-8656  
+📧 [ronan0823@outlook.com](mailto:ronan0823@outlook.com)  
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+💬[Instagram](https://www.instagram.com/m_yaaanam)            💼[LinkedIn](http://linkedin.com/in/ruonan-li-791808193)
 
-[Check out the latest demo](https://hugo-resume-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+📧 [ronan0823@outlook.com](mailto:ronan0823@outlook.com)  
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+---
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## 🎓 Education
+### UNSW Sydney (Sep 2024 – May 2026)
+**Master of Immersive and Simulation Technologies**
 
-## We ask you, humbly, to support this open source movement
+### Xianda College of Economics and Humanities, SISU (Sep 2016 – Jul 2020)
+**Bachelor of Arts in Korean Language** (Average Score: 82/100)
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+---
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## 💼 Experience
+### Omnicom Group (Feb 2025 – Present)
+**Digital PR Freelancer** (Remote)  
+- Published 43 original media articles for Cargill Group, reaching 99,663 views with an engagement rate of 80.81%.
+- Participated in L’Oréal Group’s NEO system project to enhance global employee efficiency.
+- Managed brand product systems and official media accounts.
+- Conducted data analysis and prepared reports.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+### Hi3 Designers (Jun 2020 – Jun 2022)
+**Brand PR**  
+- Published 36 original media articles with over 45,000 words, 1,200 shares, and 350 saves.
+- Increased 1,000+ followers in the real estate and design industries.
+- Assisted in award-winning projects like TITAN Property Gold, MUSE Design Platinum & Gold.
 
-## Demo credits
+### Premiere Consulting Group (2019 – 2020)
+**Traditional PR Intern**  
+- Assisted in luxury brand events for **Hublot, TAG Heuer, Tiffany & Co, and Breguet**.
+- Drafted and translated press releases, coordinated media photography, and prepared reports.
 
-- [Unsplash](https://unsplash.com/) images
+---
+
+## 🏆 Skills & Certifications
+- **Film Production & Editing**: AU, PR, AE, Maya  
+- **Photography & Design**: Photoshop, Lightroom  
+- **Music Production**: GarageBand, Logic Pro  
+- **Languages**: Mandarin, English, Korean 
+
+---
+
+## 📌 Volunteer & Leadership
+- **UNSW College Photography Club** Member (Sep 2024 – Present)
+- **UNSW College Peer Mentor Program** Mentor (Apr 2024 – Present)- Co-founder & Operations Director at **Gold Flow Media** (Sep 2024 – Dec 2024)
+- WeChat Community Operation Director for **3 Universities** (2018 – 2020)
+- Vice-President at **Thomas Film Club** (2016 – 2018)
